@@ -1,0 +1,151 @@
+
+:root {
+    --main-color: #00e0d0;
+    --border-color: #00e0d0;
+    --bg-color: #130f33;
+    --hover-color: #04645e;
+}
+
+
+/*-------------------Section1------------------*/
+
+.btn {
+    height: 40px;
+    width: 120px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.btn_link {
+    height: 40px;
+    width: 120px;
+    font-size: 16px;
+    color: var(--main-color);
+    font-family: 'Hammersmith One', sans-serif;
+    border: 1px solid var(--border-color);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn_link:focus, .btn_link:hover {
+    background-color: var(--bg-color);
+    color: var(--hover-color);
+    border-color: var(--hover-color);
+}
+
+/*-------------------Section2------------------*/
+
+.btn_section2 {
+    height: 40px;
+    width: 120px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+
+.btn_link_section2 {
+    height: 40px;
+    width: 120px;
+    font-size: 16px;
+    color: var(--main-color);
+    font-family: 'Hammersmith One', sans-serif;
+    border: 1px solid var(--border-color);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn_link_section2:focus, .btn_link_section2:hover {
+    background-color: var(--bg-color);
+    color: var(--hover-color);
+    border-color: var(--hover-color);
+}
+
+/*-------------------Section5------------------*/
+
+.btm_team {
+    height: 40px;
+    width: 140px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.btm_team_link {
+    height: 40px;
+    width: 140px;
+    font-size: 16px;
+    color: var(--main-color);
+    font-family: 'Hammersmith One', sans-serif;
+    border: 1px solid var(--border-color);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btm_team_link:focus, .btm_team_link:hover {
+    background-color: var(--bg-color);
+    color: var(--hover-color);
+    border-color: var(--hover-color);
+}
+
+/*-------------------Section6------------------*/
+
+.btm_portfolio {
+    height: 40px;
+    width: 140px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 70px;
+}
+
+.btm_portfolio_link {
+    height: 40px;
+    width: 140px;
+    font-size: 16px;
+    color: var(--main-color);
+    font-family: 'Hammersmith One', sans-serif;
+    border: 1px solid var(--border-color);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btm_portfolio_link:focus, .btm_portfolio_link:hover {
+    background-color: var(--bg-color);
+    color: var(--hover-color);
+    border-color: var(--hover-color);
+}
+
+/*-------------------Section8------------------*/
+
+
+.btn {
+    height: 40px;
+    width: 120px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.btn_link {
+    height: 40px;
+    width: 120px;
+    font-size: 16px;
+    color: var(--main-color);
+    font-family: 'Hammersmith One', sans-serif;
+    border: 1px solid var(--border-color);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn_link:focus, .btn_link:hover {
+    background-color: var(--bg-color);
+    color: var(--hover-color);
+    border-color: var(--hover-color);
+}
